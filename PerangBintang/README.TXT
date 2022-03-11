@@ -4,9 +4,10 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: perang bintang v 1.0
+PURPOSE OF PROJECT: practice oop in java 
+VERSION or DATE: 11/03/2022
+HOW TO START THIS PROJECT: 
+AUTHORS: Hamdan ZR
+USER INSTRUCTIONS: -install software greenfoot
+                   -click project.greenfot 
