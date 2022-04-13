@@ -3,7 +3,7 @@ package com.mycompany.ooponline;
 import java.util.Scanner;
 /**
  *
- * @author Hamdan Zulfa Rais (2003015034)
+ * @author Hamdan ZR)
  */
 public class OOPonline {
     public static void main(String args[]){
