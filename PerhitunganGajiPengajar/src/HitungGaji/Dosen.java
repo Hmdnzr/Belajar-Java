@@ -1,6 +1,5 @@
 package HitungGaji;
 
-
 /** @author EDO */
 public class Dosen {
   int upahsks;
