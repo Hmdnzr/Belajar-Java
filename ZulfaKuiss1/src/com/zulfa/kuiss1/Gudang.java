@@ -4,50 +4,42 @@
  */
 package com.zulfa.kuiss1;
 
-/**
- *
- * @author EDO
- */
-import java.util.Scanner;
+/** @author EDO */
 
-/**
- *
- * @author EDO
- */
+/** @author EDO */
 public class Gudang {
-    
-private int sabun, pasta, shampo;
 
-    public Gudang() {
+  private int sabun, pasta, shampo;
 
-    }
-    public Gudang(int sabun, int pasta, int shampo) {
-        this.sabun = sabun;
-        this.pasta = pasta;
-        this.shampo = shampo;
-    }
+  public Gudang() {}
 
-    public int getSabun() {
-        return sabun;
-    }
+  public Gudang(int sabun, int pasta, int shampo) {
+    this.sabun = sabun;
+    this.pasta = pasta;
+    this.shampo = shampo;
+  }
 
-    public void setSabun(int sabun) {
-        this.sabun = sabun;
-    }
+  public int getSabun() {
+    return sabun;
+  }
 
-    public int getPasta() {
-        return pasta;
-    }
+  public void setSabun(int sabun) {
+    this.sabun = sabun;
+  }
 
-    public void setPasta(int pasta) {
-        this.pasta = pasta;
-    }
+  public int getPasta() {
+    return pasta;
+  }
 
-    public int getShampo() {
-        return shampo;
-    }
+  public void setPasta(int pasta) {
+    this.pasta = pasta;
+  }
 
-    public void setShampo(int shampo) {
-        this.shampo = shampo;
-    }
+  public int getShampo() {
+    return shampo;
+  }
+
+  public void setShampo(int shampo) {
+    this.shampo = shampo;
+  }
 }
