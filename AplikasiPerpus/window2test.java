@@ -37,7 +37,7 @@ public class window2test extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Hamdan zulfa rais");
+        jLabel1.setText("Hmdn");
 
         jLabel2.setText("Masukkan kata inggris");
 
